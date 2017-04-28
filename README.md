@@ -1,5 +1,5 @@
 # .NET-Core-Exercise
-## How to build?
+## How to use?
 ### OSX (maybe also in linux)
 * Build the webserver
 
@@ -33,3 +33,6 @@ Application started. Press Ctrl+C to shut down.
 ```
 Hello World. The Time is: 10:31:52 PM
 ```
+
+### Windows (TODO)
+Maybe we can build & run this application in VisualStudio
